@@ -85,7 +85,7 @@ if(isset($_POST["submit"]))
 		$mail->Host = 'smtp.gmail.com';//$_POST["host"];		//Sets the SMTP hosts of your Email hosting, this for Godaddy
 		$mail->Port = '587'; //$_POST["port"];								//Sets the default SMTP server port
 		$mail->SMTPAuth = true;							//Sets SMTP authentication. Utilizes the Username and Password variables
-		$mail->Username = 'hackerdhrubo99@gmail.com';	//$_POST["mailuser"]; //				//Sets SMTP username
+		$mail->Username = 'yourmail@gmail.com';	//$_POST["mailuser"]; //				//Sets SMTP username
 		$mail->Password =  'password'; // $_POST["pass"]; 					//Sets SMTP password
 		$mail->SMTPSecure = 'tls';							//Sets connection prefix. Options are "", "ssl" or "tls"
 		$mail->SetFrom=  $_POST["semail"];
