@@ -2,7 +2,7 @@
 # PHPmailer
 PHPmailer  and PHP 7.
 :loudspeaker:
-**Notic:**  Now its version [v2.0](http://dhrubo-mail.000webstapp.com) (community edition)
+**Notic:**  Now its version [LIVE Trial ](http://dhrubo-mail.000webstapp.com) (community edition)
 
 
 
