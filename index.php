@@ -121,7 +121,7 @@ if(isset($_POST["submit"]))
 <html>
 	<head>
 		<title> Dhrubo's Mailer</title>
-		<link rel="icon" type="image/png" href="https://lh3.googleusercontent.com/pHksCffcFwsGie3WekxpQo1o-6vWAS0pwG_hhumk2r65c-SQXWzceNuuZpr0F22-gARS76fjZHwJr1C6pu6NVJUn6ENP5k2_mpzjtqJxcV0xOrFIpD1dOVfcDe4Zp1Rt0JAMqBx3rgBAUyrwGq_T7Tw9tHyopT8Mk_yzcV_d7oI2WBfraD_HppzSRr7HeM0C0FEPxviNQs3ZWfWPeOzbKgdu7nUsKvUaecl31cjB5_O2stLaI3bwSc9shGL0_6tMF4uDMc_yGB2-IBfY8JHjDFJ4H6M9pkHwJq20aoOFrahfq9RhUMm1ijXK-ZAgz2Cy81fgJAvamOoIPdnKAfmouuzt2lEk1jG68voerlyHJSfT9d4jYsBLiyAzmLE70N2Alc4_0LyqSHhxJc4_f57b-TcPuTKE2SyjTPX9JczTx4-IHsdi7_AdJEdpcnNRhU1PdhbWH9Kc8SbIPVZjRQonqPv8FkxDLvrhlno37_GCOvZWBju4kQ1fEAmJa-Spl2bZLC1drqKUwqQily57g-wElCAeYWEKWQo9CVLdZ9zjhfwnr8l6HMZ_Vv0-Doi5qow7CHQabUONmXPfSh8Tdze3YhhQXmxIlvdRURceHUo3gnu8iGboP-eauGdyRwBSrEzeBwu8-iRVzNU1muEBSOzy0aK4AbpryJOBzRzJa7JDBHnmZKnvnJEuPH8qTKfe=w166-h136-no">
+		<link rel="icon" type="image/png" href="https://raw.githubusercontent.com/DhruboRaj/PHPmailer/master/css/site-logo.png">
 		<script src="css/jquery.min.js"></script>
 		<link rel="stylesheet" href="css/bootstrap.min.css" />
 		<script src="css/bootstrap.min.js"></script>
